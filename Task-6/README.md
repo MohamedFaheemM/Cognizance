@@ -20,10 +20,13 @@ _We got a very good response from the users for our hardwork. We have achieved b
 
 ## **Our Achievements**
 
-*Video Editing App of the year 2020*
-*User-Friendly App*
-*Best Community*
-*Most Downloads in a year -2020*
+* *Video Editing App of the year 2020*
+
+* *User-Friendly App*
+
+* *Best Community*
+
+* *Most Downloads in a year -2020*
 
 _We will continue to inspire and improve our app for our beloved user._
 
