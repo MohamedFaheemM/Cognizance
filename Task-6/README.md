@@ -8,15 +8,21 @@ _The main theme of our product is to provide all the users with powerful video e
 
 ![image](https://user-images.githubusercontent.com/96131431/156333837-4b6162ce-3f81-4e1c-9cf1-82ab0cc5544f.png)
 
+---
+
 ## **Motivation**
 
 > Video Editing apps for creative minds! 
 
 _Our motivation was to create an entertainment app which will trigger the creative minds of our users. Also this app is based on User Experience(UX) and User Interface(UI) Platform which makes it more user-friendly._
 
+---
+
 ## **Our Impression**
 
 _We got a very good response from the users for our hardwork. We have achieved by impressing our users and getting a rating of 4.6 on Play store and Google. Our pretegious software is installed and used by 250 Million+ users in Play Store and App Store._
+
+---
 
 ## **Our Achievements**
 
@@ -29,6 +35,8 @@ _We got a very good response from the users for our hardwork. We have achieved b
 * *Most Downloads in a year -2020*
 
 _We will continue to inspire and improve our app for our beloved users._
+
+---
 
 ## **Future Developments**
 
