@@ -12,7 +12,7 @@ _The main theme of our product is to provide all the users with powerful video e
 
 > Video Editing apps for creative minds! 
 
-_Our motivation was to create an entertainment app which will trigger the creatie minds of our users. Also this app is based on User Experience(UX) and User Interface(UI) Platform which makes more user-friendly._
+_Our motivation was to create an entertainment app which will trigger the creative minds of our users. Also this app is based on User Experience(UX) and User Interface(UI) Platform which makes more user-friendly._
 
 ## **Our Impression**
 
