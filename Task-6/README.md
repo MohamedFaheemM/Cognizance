@@ -28,7 +28,7 @@ _We got a very good response from the users for our hardwork. We have achieved b
 
 * *Most Downloads in a year -2020*
 
-_We will continue to inspire and improve our app for our beloved user._
+_We will continue to inspire and improve our app for our beloved users._
 
 ## **Future Developments**
 
