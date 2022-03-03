@@ -9,7 +9,8 @@
 
 _The main theme of our product is to provide all the users with powerful video editing app. Through which you can create detailed photos with filters and effects , collect all the photos and create a mindblowing video with special effects._
 
-![image](https://user-images.githubusercontent.com/96131431/156333837-4b6162ce-3f81-4e1c-9cf1-82ab0cc5544f.png)
+![image](https://user-images.githubusercontent.com/96131431/156507137-ff85d9d4-bc71-41db-9fd9-5963c96767ff.png)
+
 
 ---
 
