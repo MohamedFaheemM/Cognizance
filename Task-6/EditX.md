@@ -9,7 +9,7 @@
 
 _The main theme of our product is to provide all the users with powerful video editing app. Through which you can create detailed photos with filters and effects , collect all the photos and create a mindblowing video with special effects._
 
-![image](https://user-images.githubusercontent.com/96131431/156507137-ff85d9d4-bc71-41db-9fd9-5963c96767ff.png)
+<img width="814" alt="EditX" src="https://user-images.githubusercontent.com/96131431/156514852-47859bd1-9d13-417f-9f0c-a1a82187dc92.png">
 
 
 ---
@@ -86,4 +86,4 @@ _Also we are planning to improve our website, through which users can access the
 
 * Mail Us - EditXAPP@gmail.com  📨📧📩
 
-* Our Website - https://xd.adobe.com/view/31476303-7aff-4099-b153-9073396b99e2-6414/  🔗
+* Our Website - https://user-images.githubusercontent.com/96131431/156514852-47859bd1-9d13-417f-9f0c-a1a82187dc92.png  🔗
